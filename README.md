@@ -2,7 +2,7 @@
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/alexjuniorarruda/Accounts/blob/main/LICENSE)
 
- Nessa aplicação é possivel fazer o cadastro de eventos e podemos fazer também o check-in nos eventos criados. Esse projeto foi feito a partir do NLW Unite promovido pela Rocketseat.
+ Nessa aplicação é possivel fazer o cadastro de eventos, participantes e o check-in dos participantes. Esse projeto foi feito a partir do NLW Unite promovido pela Rocketseat.
  Nesse projeto usamos [TypeScript](https://www.typescriptlang.org/), [Fastify](https://fastify.dev/) para rotas, [Zod](https://zod.dev/) para a validação de entrada de dados e [Prisma](https://www.prisma.io/) para a comunicação e interação com o banco de dados([SQLite](https://www.sqlite.org/)).
  
  ### Tecnologias Utilizadas
