@@ -9,7 +9,6 @@
  
  * [Nodejs](https://nodejs.org/en)
  * [SQLite](https://www.sqlite.org/)
- * [Insomnia](https://insomnia.rest/)
 
 ## Dependências e Versões Necessárias
 
